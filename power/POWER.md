@@ -214,3 +214,37 @@ Similarly for TypeScript (`npm install @crowdstrike/aidr` on `**/*.ts`) or Go (`
 ### Empty detector results
 - Detectors are configured per-policy; ensure your policy has the relevant detectors enabled
 - Check the `policy` field in the response to confirm which policy was applied
+
+## License and Support
+
+MIT License
+
+Copyright (c) 2026 CrowdStrike
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Support
+
+Issues may be reported on [GitHub](https://github.com/CrowdStrike/aidr-aws-kiro-power/issues) and are used to track bugs, documentation updates, enhancement requests, and security concerns.
+
+### Support Escalation
+
+We endeavor to provide support for `@crowdstrike/aidr-aws-kiro-power` within the GitHub repository. This expands our online knowledge base, enables self-help for our community, and can reduce the time needed to receive answers.
+
+If you are a CrowdStrike customer and would prefer to have your questions or issues handled directly with CrowdStrike Support, you are welcome to contact the CrowdStrike technical support team.

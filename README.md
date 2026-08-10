@@ -1,6 +1,6 @@
 # CrowdStrike AIDR SDK — Kiro POWER
 
-This repository contains a [Kiro POWER](https://kiro.dev/docs/steerers/power/) for integrating the [CrowdStrike AIDR](https://www.crowdstrike.com/platform/ai-security/) SDK into LLM-powered applications. It provides steering documents that guide Kiro to generate correct, production-ready AI Guard integration code across Go, Python, and TypeScript.
+This repository contains a [Kiro POWER](https://kiro.dev/powers/) for integrating the [CrowdStrike AIDR](https://www.crowdstrike.com/platform/ai-security/) SDK into LLM-powered applications. It provides steering documents that guide Kiro to generate correct, production-ready AI Guard integration code across Go, Python, and TypeScript.
 
 ## What is a POWER?
 
